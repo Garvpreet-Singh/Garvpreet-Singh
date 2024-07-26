@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Garvpreet-Singh
-About Me
-Hello, my name is Garvpreet Singh, and I am a second-year software engineering student with a passion for technology and software development. I have built a strong foundation in essential concepts, programming languages, and methodologies within software engineering. My goal is to leverage my skills and knowledge to contribute meaningfully to real-world projects and continuously grow in the field.
+and I am a second-year software engineering student with a passion for technology and software development. I have built a strong foundation in essential concepts, programming languages, and methodologies within software engineering. My goal is to leverage my skills and knowledge to contribute meaningfully to real-world projects and continuously grow in the field.
 
 Skills
 Programming Languages: Proficient in C#, Wramp (Assembly language), Java, SQL, HTML, CSS, JavaScript
